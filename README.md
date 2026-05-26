@@ -186,30 +186,30 @@ The ESP32 continuously uploads live data to Supabase, which is visualized inside
 
 ### 🔐 Login Screen
 
-![Login Screen](assets/screenshots/Login.jpeg)
+![Login Screen](assets/screenshots/Login.jpg)
 
 ---
 
 ### 🌞 Dashboard
 
-![Dashboard](assets/screenshots/Dashboard.jpeg)
+![Dashboard](assets/screenshots/Dashboard.jpg)
 
 ---
 ### 🌞 Hardware Setup
 
-![Dashboard](assets/screenshots/Hardware.jpeg)
+![Dashboard](assets/screenshots/Hardware.jpg)
 
 ---
 
 ### 📊 History Logs
 
-![History](assets/screenshots/History.jpeg)
+![History](assets/screenshots/History.jpg)
 
 ---
 
 ### 💰 Billing System
 
-![Billing](assets/screenshots/Billing.jpeg)
+![Billing](assets/screenshots/Billing.jpg)
 
 ---
 
