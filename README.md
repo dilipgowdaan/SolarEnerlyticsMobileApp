@@ -203,7 +203,7 @@ The ESP32 continuously uploads live data to Supabase, which is visualized inside
 
 ### 📊 History Logs
 
-![History](assets/screenshots/History.jpg)
+![History](assets/screenshots/DataLogs.jpg)
 
 ---
 
