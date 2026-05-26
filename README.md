@@ -181,35 +181,45 @@ The ESP32 continuously uploads live data to Supabase, which is visualized inside
 - Automatic anti-islanding logic
 
 ---
-
 ## 📸 Screenshots
 
 ### 🔐 Login Screen
 
-![Login Screen](assets/screenshots/Login.jpg)
+<p align="center">
+  <img src="assets/screenshots/Login.jpg" width="300"/>
+</p>
 
 ---
 
 ### 🌞 Dashboard
 
-![Dashboard](assets/screenshots/Dashboard.jpg)
+<p align="center">
+  <img src="assets/screenshots/Dashboard.jpg" width="300"/>
+</p>
 
 ---
-### 🌞 Hardware Setup
 
-![Dashboard](assets/screenshots/Hardware.jpg)
+### ⚙️ Hardware Setup
+
+<p align="center">
+  <img src="assets/screenshots/Hardware.jpg" width="300"/>
+</p>
 
 ---
 
 ### 📊 History Logs
 
-![History](assets/screenshots/DataLogs.jpg)
+<p align="center">
+  <img src="assets/screenshots/DataLogs.jpg" width="300"/>
+</p>
 
 ---
 
 ### 💰 Billing System
 
-![Billing](assets/screenshots/Billing.jpg)
+<p align="center">
+  <img src="assets/screenshots/Billing.jpg" width="300"/>
+</p>
 
 ---
 
